@@ -16,12 +16,12 @@ You'll also need to install and configure
 
 ## Usage
 
-Once you've configured [babel-plugin-macros][babel-plugin-macros], change your imports from `goober` to `babel-macro-goober`.
+Once you've configured [babel-plugin-macros][babel-plugin-macros], change your imports from `goober` to `goober/macro`.
 
 Now you can create your components using `styled.*` syntax:.
 
 ```js
-import { styled } from 'babel-macro-goober';
+import { styled } from 'goober/macro';
 
 const Button = styled.button`
     margin: 0;

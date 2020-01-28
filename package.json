@@ -14,7 +14,8 @@
     "dist",
     "package.json",
     "typings.json",
-    "goober.d.ts"
+    "goober.d.ts",
+    "macro.js"
   ],
   "scripts": {
     "test": "npm run test-ts && npm run test-unit -- --ci --coverage && npm run build && npm run test-perf",
