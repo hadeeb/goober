@@ -50,6 +50,7 @@
     "@emotion/core": "^10.0.22",
     "@emotion/styled": "^10.0.23",
     "babel-jest": "^24.1.0",
+    "babel-test": "^0.2.3",
     "benchmark": "^2.1.4",
     "bundlesize": "^0.18.0",
     "csstype": "^2.6.3",
